@@ -174,7 +174,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/static/img/IMG_20200906_120739.png"
+      avatarURL = "https://scontent.fsof11-1.fna.fbcdn.net/v/t1.6435-1/208472151_271224148127706_687911510465752785_n.jpg?stp=c152.0.194.194a_dst-jpg_p240x240&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_ohc=jzQOmlPdbBkAX9pxNV6&_nc_ht=scontent.fsof11-1.fna&oh=00_AfAAqykXm9L5sSiTAqHyVXPTWnMGzYmpf4PEDCeblMkr6w&oe=64256164"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
@@ -195,12 +195,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       defaultHiddenFromHomePage = false
 
   [params.social]
-    GitHub = "https://github.com/kzahariev"
-    Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    GitHub = "kzahariev"
+    Linkedin = "krum-zahariev-59a9081a1"
+    Twitter = ""
+    Instagram = "zaharievkrum"
+    Facebook = ""
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -268,7 +268,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
+    Email = "kbzahariev@gmail.com"
     RSS = true # LoveIt NEW | 0.2.0
 
  # LoveIt CHANGED | 0.2.0 Page global config
@@ -338,21 +338,21 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
-      Linkedin = false
+      Facebook = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Blogger = false
       Baidu = false
       Odnoklassniki = false
