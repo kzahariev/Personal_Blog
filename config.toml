@@ -174,7 +174,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "https://kzahariev.github.io/Personal_Blog/assets/IMG_3025.CR2.jpg"
+      avatarURL = "https://kzahariev.github.io/Personal_Blog/assets/IMG_3025.CR2.jpg/"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
