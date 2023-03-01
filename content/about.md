@@ -1,6 +1,12 @@
 ---
 title: "About Me"
 draft: false
+
+toc:
+  enable: true
+  auto: true
+
+fontawesome: true
 ---
 
 Who am I? What am I? Why am I?
