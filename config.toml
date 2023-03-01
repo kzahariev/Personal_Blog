@@ -186,7 +186,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Hi! This is my personal blog"
+      subtitle = "This is a repository for my stuff - projects, thoughts, essays, articles, etc."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -222,7 +222,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Codepen = ""
     FreeCodeCamp = ""
     Bitbucket = ""
-    Stackoverflow = ""
+    Stackoverflow = "21265797/krum-zahariev"
     Weibo = ""
     Odnoklassniki = ""
     VK = ""
