@@ -9,8 +9,6 @@ toc:
 fontawesome: true
 ---
 
-image1 = "images/IMG_3025.CR2.jpg"
-
 
 # Who am I? What am I? Why am I?
 
