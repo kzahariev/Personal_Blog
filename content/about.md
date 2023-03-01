@@ -27,3 +27,5 @@ Inbetween I enjoy reading - primarily non-fiction the last couple of years, but 
 # How did we get here?
 
 * I have been active on several social media platforms, be it work or non-work related. This blog is meant to consolidate them all together. More to come on that note.
+
+# More
