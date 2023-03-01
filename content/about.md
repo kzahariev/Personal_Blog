@@ -13,7 +13,7 @@ fontawesome: true
 
 I am a technie with a passion for linux and all things technology - so I tend to spend a considerable amount of time online.
 When I am not wired in, I typically enjoy calorie-intense activities which involve running, jumping, throwing stuff, and hitting people.
-Inbetween I enjoy reading - primarily non-fiction the last couple of years, but have a special place in my heart for Samuel Beckett, Albert Camus, and Dostoyevsky
+Inbetween I enjoy reading - primarily non-fiction the last couple of years, but I have a special place in my heart for Samuel Beckett, Albert Camus, and Dostoyevsky
 
 # Current Status
 
