@@ -9,6 +9,9 @@ toc:
 fontawesome: true
 ---
 
+image1 = "images/IMG_3025.CR2.jpg"
+
+
 # Who am I? What am I? Why am I?
 
 I am a technie with a passion for linux and all things technology - so I tend to spend a considerable amount of time online.
