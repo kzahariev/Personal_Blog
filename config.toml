@@ -103,7 +103,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
-    custom = 'Created with <3 by Krum Zahariev. This blog, its content, and opinions are my own.'
+    custom = 'Created by Krum Zahariev. This blog, its content, and opinions are my own.'
     # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
     hugo = false
     # LoveIt NEW | 0.2.0 whether to show copyright info
